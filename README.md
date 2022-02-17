@@ -20,5 +20,5 @@ ng serve コマンドは、サーバーを起動し、ファイルを監視し�
 
 --open（または単に -o）オプションは、ブラウザを自動的に http://localhost:4200/ に開きます。
 
-[公式HPはこちら](
+[チュートリアルページはこちら](
 https://angular.jp/guide/setup-local#angular-cli%E3%82%92%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E3%81%99%E3%82%8B-)
